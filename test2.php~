@@ -1,0 +1,10 @@
+<?php
+echo ('0'==0);
+echo('0'=='0');
+$a = array('a','0','c');
+echo in_array(0, $a);
+
+function process_zero($string) {
+	return str_repl('0'
+}
+?>
